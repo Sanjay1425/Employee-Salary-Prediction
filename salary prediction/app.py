@@ -12,8 +12,6 @@ from xgboost import XGBRegressor
 
 # Load dataset
 df = pd.read_csv("employee_data.csv")
-# Load dataset
-df = pd.read_csv("employee_data.csv")
 
 # Sidebar: show raw data
 with st.sidebar:
